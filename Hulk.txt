@@ -1,1 +1,2 @@
 Hulk
+Add "rayos gamma" string to Hulk file
