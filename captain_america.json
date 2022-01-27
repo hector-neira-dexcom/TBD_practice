@@ -1,5 +1,6 @@
 {
 	"name": "Steve Rogers",
 	"role": "Avenger",
-	"personal_life": false
+	"personal_life": false,
+	"shield": true
 }
